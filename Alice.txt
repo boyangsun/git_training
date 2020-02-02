@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 here are some changes!
 change again!
 change again and again!
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.hahahha
+>>>>>>> 0364e70eda5a4053836b310783a1eb8dd76cd577
